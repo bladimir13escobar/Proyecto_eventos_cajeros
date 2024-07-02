@@ -21,19 +21,19 @@ consta de las siguientes fases:
 
 ## **Objetivos Específicos**
 Evaluar la Calidad de los datos:
-• Identificar y cuantificar valores faltantes y atípicos en las columnas clave.
-• Determinar la precisión y consistencia de los datos registrados.
+- Identificar y cuantificar valores faltantes y atípicos en las columnas clave.
+- Determinar la precisión y consistencia de los datos registrados.
 Mejorar la Integridad de los datos:
-• Implementar estrategias de imputación para valores faltantes.
-• Corregir valores atípicos e inconsistentes.
+- Implementar estrategias de imputación para valores faltantes.
+- Corregir valores atípicos e inconsistentes.
 Analizar el Desempeño de los proveedores:
-• Examinar los tiempos de respuesta y solución para identificar áreas de
+- Examinar los tiempos de respuesta y solución para identificar áreas de
 mejora.
-• Evaluar el impacto de la calidad del proveedor en los tiempos de resolución.
+- Evaluar el impacto de la calidad del proveedor en los tiempos de resolución.
 Proporcionar Recomendaciones de mejora:
-• Desarrollar estrategias basadas en el análisis de datos para optimizar los
+- Desarrollar estrategias basadas en el análisis de datos para optimizar los
 procesos operativos.
-• Sugerir cambios en la captura y manejo de datos para aumentar la calidad
+- Sugerir cambios en la captura y manejo de datos para aumentar la calidad
 de la información.
 
 ## **Ficha tecnica**
